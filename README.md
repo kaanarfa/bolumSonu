@@ -2,4 +2,4 @@
 
 Html Bölüm Sonu Çalışması
 
-[https://app.patika.dev/arfa](Patika Profilim)
+[Patika Profilim](https://app.patika.dev/arfa)
